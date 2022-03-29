@@ -5,7 +5,8 @@ Project 1 - ELK Stack Project
 
 The files in this repository were used to configure the network depicted below.
 
-![TODO: Update the path with the name of your diagram](Images/Azure-Diagram.png)![Azure-Diagram](https://user-images.githubusercontent.com/90795727/160270978-64fe74fa-2a17-4d73-bab3-0ee2c4ed515d.png)
+![TODO: Update the path with the name of your diagram](Images/Azure-Diagram.png)![Untitled Diagram drawio (1)](https://user-images.githubusercontent.com/90795727/160530510-ceef74a6-91c8-4e1f-845e-81b7bf932277.png)
+
 
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the playbook file may be used to install only certain pieces of it, such as Filebeat.
