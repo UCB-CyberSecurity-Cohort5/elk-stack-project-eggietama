@@ -1,4 +1,4 @@
-# ELK-Stack-Project
+# UCB Cybersecurity Projects
 Project 1 - ELK Stack Project
 
 # Automated ELK Stack Deployment
@@ -152,3 +152,4 @@ cd /etc/ansible
 - ansible-playbook install-elk.yml elk
 - ansible-playbook install-filebeat.yml webservers
 - ansible-playbook install-metricbeat.yml webservers
+
